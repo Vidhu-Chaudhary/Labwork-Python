@@ -1,2 +1,2 @@
 # Python-labwork
-Lab assignments for college course work.
+Lab assignments for college course work.    
